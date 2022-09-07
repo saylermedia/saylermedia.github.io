@@ -1,7 +1,7 @@
 # saylermedia.github.io
 
-[url=test/tester.eIMC.xml]tester.eIMC.xml[/url]
+[tester.eIMC.xml](test/tester.eIMC.xml)
 
-[url=test/tester.zip]tester.zip[/url]
+[tester.zip](test/tester.zip)
 
-[url=test/tester.zip.md5]tester.zip.md5[/url]
+[tester.zip.md5](test/tester.zip.md5)
