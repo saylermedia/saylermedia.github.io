@@ -1,8 +1,0 @@
-<extension>
-    <id>tester</id>
-    <datadir>http://files.iconbit.com/IMC/tester/</datadir>
-    <summary>
-        <value>Tester packet</value>
-        <value lang="ru">Пакет тестировщика</value>
-    </summary>
-</extension>
